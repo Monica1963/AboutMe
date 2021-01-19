@@ -3,6 +3,10 @@ Trabajo Práctico realizado para el curso de React de Punch IT (https://punchit.
 
 Versión 1 - 14 de Enero 2020
 
+Mejoras pendientes:
+1- Skills
+2- Proyectos realizados en los cursos de JavaScript y React
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
