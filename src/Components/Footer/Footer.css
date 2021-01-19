@@ -1,0 +1,22 @@
+
+footer{
+
+    width: 100%;
+    background:#1F232A;
+    display: flex;
+    color:#00d8ff;
+    font-size: 1rem;
+    position:fixed; 
+    bottom:0;
+    left:0;
+    width:100%;
+    
+}
+
+.redes {
+  background-color: #2a1044;
+  color:#00d8ff;
+  font-weight: bold;
+  padding: 5px;
+  opacity: 0.8;
+}

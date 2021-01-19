@@ -1,3 +1,8 @@
+#AboutMe
+Trabajo Práctico realizado para el curso de React de Punch IT (https://punchit.com.ar/)
+
+Versión 1 - 14 de Enero 2020
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
